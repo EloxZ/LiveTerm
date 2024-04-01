@@ -1,5 +1,5 @@
 # Portfolio Personal
 
-## Creditos
+## Créditos
 
-Fork de LiveTem [Terminal](https://github.com/Cveinnt/LiveTerm).
+Fork de [LiveTerm](https://github.com/Cveinnt/LiveTerm).
