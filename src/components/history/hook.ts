@@ -16,7 +16,7 @@ export const useHistory = (defaultValue: Array<History>) => {
         {
           id: history.length,
           date: new Date(),
-          command,
+          command: command,
           output: value,
         },
       ]),

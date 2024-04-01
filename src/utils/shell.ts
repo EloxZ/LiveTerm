@@ -10,7 +10,7 @@ export const shell = async (
   const args = command.split(' ');
   args[0] = args[0].toLowerCase();
 
-  if (args[0] === 'clear') {
+  if (args[0] === 'clear' || args[0] === 'limpiar') {
     clearHistory();
   } else if (command === '') {
     setHistory('');
